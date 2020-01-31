@@ -28,7 +28,7 @@ This package has been benchmarked mapping building at 5x+ realtime up to about 3
 
 The video below was collected at [Circuit Launch](https://www.circuitlaunch.com/) in Oakland, California. Thanks to [Silicon Valley Robotics](https://svrobo.org/) & Circuit Launch for being a testbed for some of this work. This data is currently available upon request, but its going to be included in a larger open-source dataset down the line. 
 
-![map_image](/images/circuit_launch.gif?raw=true "Map Image")
+![map_image](/doc/images/circuit_launch.gif?raw=true "Map Image")
 
 
 # LifeLong Mapping
@@ -113,7 +113,7 @@ It's recommended to always continue mapping near the dock, if that's not possibl
 
 The interface is shown below.
 
-![rviz_plugin](/images/rviz_plugin.png?raw=true "Rviz Plugin")
+![rviz_plugin](/doc/images/rviz_plugin.png?raw=true "Rviz Plugin")
 
 ### Graph Manipulation
 
@@ -317,6 +317,6 @@ and then all you have to do when you specify a map to use is set the filename to
 
 ## More Gifs!
 
-![map_image](/images/mapping_steves_apartment.gif?raw=true "Map Image")
+![map_image](/doc/images/mapping_steves_apartment.gif?raw=true "Map Image")
 
 If someone from iRobot can use this to tell me my Roomba serial number by correlating to its maps, I'll buy them lunch and probably try to hire them.
